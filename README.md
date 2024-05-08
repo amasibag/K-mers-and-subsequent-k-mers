@@ -20,7 +20,7 @@ This Python script analyzes DNA sequences to identify k-mers and their subsequen
 
 ### Running the Script
 1. Clone this repository to your local machine:
-    git clone https://github.com/amasibag/K-mers-and-subsequent-k-mers-.git
+    git clone https://github.com/amasibag/K-mers-and-subsequent-k-mers.git
     
 2. Change into the project directory:
 
