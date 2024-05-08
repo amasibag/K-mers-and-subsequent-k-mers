@@ -26,7 +26,7 @@ This Python script analyzes DNA sequences to identify k-mers and their subsequen
 
 3. Run the script with the following command, providing the path to the file containing DNA sequences:
 
-     python kmer.py -s ATGTCTGTCTGAA -k 2
+     python kmer.py -s DNA_sequence -k 2
 
      python kmer.py -f /path/to/your/sequence-file.fa -k 3
 
