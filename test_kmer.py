@@ -64,6 +64,3 @@ def test_find_smallest_k_missing_file():
         assert str(e) == "File not found."
 
 
-if __name__ == "__main__":
-    pytest.main()
-
