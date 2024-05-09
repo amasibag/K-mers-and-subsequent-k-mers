@@ -39,4 +39,4 @@ This Python script analyzes DNA sequences to identify k-mers and their subsequen
 ### Output
 The script will output the identified k-mers and their subsequent k-mers for each sequence in the file, different k-mers length specified, as well as the smallest value of k where every substring has only one possible subsequent substring.
 
-
+#### The smallest value of k using reads.fa is: 10
